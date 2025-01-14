@@ -1,0 +1,19 @@
+[role="button"] {
+  padding: 15px 100px;
+  overflow-wrap: initial;
+  white-space: nowrap;
+}
+
+.galleryxd {
+  max-width: 100%;
+  width: 100%;
+}
+
+.buy {
+  padding-left: 0;
+  max-width: 310px;
+}
+
+.phone-buy {
+  margin-top: 24px;
+}
