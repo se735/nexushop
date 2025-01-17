@@ -1,5 +1,5 @@
 ---
-title: "Diadema Airpods Pro Max"
+title: "Diadema Airpods Max"
 date: 2025-01-13T15:47:12-05:00
 draft: false
 tags: ['Tecnología']
@@ -20,11 +20,14 @@ description: "Cinturon"
 <p>  </p>
 
 ## Especificaciones del producto
-- Correa doble ojal con hebilla doble aguijon
-- Material 100% colombiano
-- Cuero sintetico
-- Ancho 3.8cm
-- Genero: unisex
-- Talla unica 105cm
+- Sonido envolvente 
+- Aísla el sonido 
+- Los AirPods Max son los auriculares de alta gama que combinan un diseño elegante con una calidad de sonido excepcional y funcionalidades.
+- Contenido de la caja:
+    - Diadema airpods max
+    - Cable de carga
+    - Manual
+    - funda protectora
+
 
 

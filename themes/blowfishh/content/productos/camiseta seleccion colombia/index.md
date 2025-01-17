@@ -19,8 +19,7 @@ params:
 <p>  </p>
 
 ## Especificaciones del producto
-- Genero: unisex
-- Talla unica 105cm
+- Camiseta selección Colombia 2024 local versión jugador
 - Tallas: S, M, L, XL
 
 

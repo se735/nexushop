@@ -36,6 +36,12 @@
   pageRef = "Tecnología"
   weight = 20
 
+[[main]]
+  name = "Perfumes"
+  parent = "Categorias"
+  pageRef = "Perfumes"
+  weight = 20
+
 
 #[[main]]
 #  name = "Categorias"

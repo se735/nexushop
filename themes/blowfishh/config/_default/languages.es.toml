@@ -9,7 +9,7 @@ title = "NexuShop"
   #isoCode = "en"
   #rtl = false
   #dateFormat = "2 January 2006"
-   logo = "icons/logo.png"
+  logo = "icons/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -67,7 +67,7 @@ title = "NexuShop"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
      { whatsapp = "https://wa.me/3206686256" },
-     { youtube = "https://youtube.com/username" },
+#     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]

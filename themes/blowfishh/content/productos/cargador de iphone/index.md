@@ -12,16 +12,14 @@ description: "Cinturon"
 <p>  </p>
 {{< gallery >}}
   <img src="gallery/01.webp" class="grid-w25 md:grid-w20 xl:grid-w15" />
-  <img src="gallery/02.png" class="grid-w25 md:grid-w20 xl:grid-w15" />
 {{< /gallery >}}
 <p>  </p>
 
 ## Especificaciones del producto
-- Correa doble ojal con hebilla doble aguijon
-- Material 100% colombiano
-- Cuero sintetico
-- Ancho 3.8cm
-- Genero: unisex
-- Talla unica 105cm
-
+- Cargador certificado
+- Carga rápida
+- Regulador de voltaje
+- Compatible desde el iPhone 8 hasta el iPhone 14 Pro Max, al igual que con AirPods y iPad
+- Estándar de seguridad UL para evitar sobrecarga, corriente corta y sobrecalentamiento
+- Cable de alta resistencia
 
