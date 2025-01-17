@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnología on NexuShop</title>
+    <link>//localhost:1313/tags/tecnolog%C3%ADa/</link>
+    <description>Recent content in Tecnología on NexuShop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 NexuShop</copyright>
+    <lastBuildDate>Tue, 14 Jan 2025 15:47:12 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airpods Pro 2da Generacion</title>
+      <link>//localhost:1313/productos/airpods-pro-2da-generacion/</link>
+      <pubDate>Tue, 14 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/airpods-pro-2da-generacion/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/airpods-pro-2da-generacion/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cargador de Iphone</title>
+      <link>//localhost:1313/productos/cargador-de-iphone/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/cargador-de-iphone/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/cargador-de-iphone/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Diadema Airpods Pro Max</title>
+      <link>//localhost:1313/productos/diadema-airpods-pro-max-/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/diadema-airpods-pro-max-/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/diadema-airpods-pro-max-/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

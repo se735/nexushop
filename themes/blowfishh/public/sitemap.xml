@@ -3,19 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/products/cinturon/</loc>
-    <lastmod>2025-01-04T15:47:12-05:00</lastmod>
+    <loc>//localhost:1313/productos/airpods-pro-2da-generacion/</loc>
+    <lastmod>2025-01-14T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/correa-con-taches-steampunk/</loc>
+    <lastmod>2025-01-14T15:47:12-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-04T15:47:12-05:00</lastmod>
+    <lastmod>2025-01-14T15:47:12-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/products/</loc>
+    <loc>//localhost:1313/productos/</loc>
+    <lastmod>2025-01-14T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/camiseta-seleccion-colombia/</loc>
+    <lastmod>2025-01-13T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/cargador-de-iphone/</loc>
+    <lastmod>2025-01-13T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/example/</loc>
+    <lastmod>2025-01-13T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/correa-doble-ojal/</loc>
+    <lastmod>2025-01-13T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/diadema-airpods-pro-max-/</loc>
+    <lastmod>2025-01-13T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/toy-boy-moschino/</loc>
+    <lastmod>2025-01-13T15:47:12-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/productos/correa-con-taches/</loc>
     <lastmod>2025-01-04T15:47:12-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

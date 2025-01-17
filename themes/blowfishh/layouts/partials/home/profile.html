@@ -14,12 +14,11 @@
         {{ if not $disableImageOptimization }}
           {{ $authorImage = $authorImage.Fill (print "288x288 q" ( $.Site.Params.Author.imagequality | default "96" )) }}
         {{ end }}
-        <img class="mb-2 rounded-full h-36 w-36" width="144" height="144" alt="{{ $.Site.Params.Author.name | default " Author" }}"
-          src="{{ $authorImage.RelPermalink }}" />
+        <img class="mb-2  h-36 w-76"  alt="{{ $.Site.Params.Author.name | default " Author" }}"
+          src="icons/logo.png" />
       {{ end }}
     {{ end }}
     <h1 class="text-4xl font-extrabold">
-      {{ .Site.Params.Author.name | default .Site.Title }}
     </h1>
     {{ with .Site.Params.Author.headline }}
     <h2 class="text-xl text-neutral-500 dark:text-neutral-400">

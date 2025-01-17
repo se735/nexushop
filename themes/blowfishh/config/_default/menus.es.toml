@@ -9,25 +9,47 @@
 # By default the menu is ordered alphabetically. This can be
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
+[[main]]
+  name = "Catalogo"
+  weight = 30
+  pageRef= "productos"
 
 [[main]]
-  name = "Carrito"
-  pageRef = "posts"
-  weight = 10
+  name = "Categorias"
+  weight = 20
+
+[[main]]
+  name = "Ropa"
+  parent = "Categorias"
+  pageRef = "Ropa"
+  weight = 20
+
+[[main]]
+  name = "Accesorios"
+  parent = "Categorias"
+  pageRef = "Accesorios"
+  weight = 20
+
+[[main]]
+  name = "Tecnología"
+  parent = "Categorias"
+  pageRef = "Tecnología"
+  weight = 20
+
 
 #[[main]]
-#  name = "Parent"
+#  name = "Categorias"
 #  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 1"
-#  parent = "Parent"
+#  parent = "Categorias"
 #  pageRef = "posts"
 #  weight = 20
 
 #[[main]]
 #  name = "example sub-menu 2"
-#  parent = "Parent"
+#  parent = "Categorias"
 #  pageRef = "posts"
 #  weight = 20
 

@@ -1,9 +1,26 @@
-<h2 class="phone-buy">Envío gratis a todo el país</h2>
-<h1>$50.000</h1>
-<h3>Stock disponible</h3>
+<h2 class="phone-buy">Envío contra entrega gratis a todo Colombia </h2>
+<h1>{{ .Params.price }}</h1>
+<h3>Stock disponible </h3>
 <p></p>
 <a class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" 
-  role="button">
+  role="button" target="_blank" href="https://wa.me/3206686256?text=Bievenido%20a%20NexuShop%20regalame%20los%20siguientes%20datos%20para%20realizar%20tu%20pedido:%0A
+Producto:%20{{ .Params.title }}%0A
+Cantidad:%0A
+Nombre%20y%20apellido:%0A
+Numero%20telefónico:%0A
+Ciudad%20y%20direccion:%0A
+{{ if .Params.size }}
+Talla:%0A
+{{ end }}
+{{ if .Params.color }}
+Color:
+{{ end }}">
   Comprar ahora!
 </a>
 <p>Compra Protegida, recibe el producto que esperabas o te devolvemos tu dinero.</p>
+<!-- <a href="https://wa.me/1234567890?text=Hello%20there!%20I%20have%20a%20question." 
+  class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+  role="button"
+  target="_blank">
+    Chat on WhatsApp
+</a> -->
