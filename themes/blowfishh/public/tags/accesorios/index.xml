@@ -21,22 +21,22 @@
     
     <item>
       <title>Correa doble ojal Unisex</title>
-      <link>//localhost:1313/example/</link>
-      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
-      
-      <guid>//localhost:1313/example/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/example/featured.png" />
-    </item>
-    
-    <item>
-      <title>Correa doble ojal Unisex</title>
       <link>//localhost:1313/productos/correa-doble-ojal/</link>
       <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
       
       <guid>//localhost:1313/productos/correa-doble-ojal/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/correa-doble-ojal/featured.png" />
+    </item>
+    
+    <item>
+      <title>Maleta Antirrobo</title>
+      <link>//localhost:1313/productos/maleta-antirrobo/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-antirrobo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-antirrobo/featured.png" />
     </item>
     
     <item>

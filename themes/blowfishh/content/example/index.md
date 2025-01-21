@@ -2,7 +2,6 @@
 title: "Correa doble ojal Unisex"
 date: 2025-01-13T15:47:12-05:00
 draft: false
-tags: ['accesorios', 'ropa']
 params:
     price: $50.000
 description: "Cinturon"

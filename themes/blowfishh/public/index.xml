@@ -80,6 +80,36 @@
     </item>
     
     <item>
+      <title>Maleta Antirrobo Imperneable</title>
+      <link>//localhost:1313/productos/maleta-antirrobo/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-antirrobo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-antirrobo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Maleta Kuromi</title>
+      <link>//localhost:1313/productos/maleta-kuromi/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-kuromi/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-kuromi/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Maleta Viajera</title>
+      <link>//localhost:1313/productos/maleta-viajera/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-viajera/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-viajera/featured.webp" />
+    </item>
+    
+    <item>
       <title>Toy Boy Moschino 100 Ml Perfume Men</title>
       <link>//localhost:1313/productos/toy-boy-moschino/</link>
       <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maletines on NexuShop</title>
+    <link>//localhost:1313/tags/maletines/</link>
+    <description>Recent content in Maletines on NexuShop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 NexuShop</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 15:47:12 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/maletines/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Maleta Antirrobo Imperneable</title>
+      <link>//localhost:1313/productos/maleta-antirrobo/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-antirrobo/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-antirrobo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Maleta Kuromi</title>
+      <link>//localhost:1313/productos/maleta-kuromi/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-kuromi/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-kuromi/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Maleta Viajera</title>
+      <link>//localhost:1313/productos/maleta-viajera/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-viajera/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-viajera/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

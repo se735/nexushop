@@ -39,7 +39,7 @@
         <div class="relative float-left -mr-[100%] {{ if not (eq $num 0) }} hidden {{ end }} w-full transition-transform duration-[{{ $interval }}ms] ease-in-out motion-reduce:transition-none"
             data-twe-carousel-item {{ if eq $num 0 }} data-twe-carousel-active {{ end }}>
             <div class="ratio-{{ $aspect }} single_hero_background">
-                <img src="{{ .RelPermalink }}" class="block absolute top-0 object-cover w-full h-full" alt="carousel image {{$num}}"/>
+                <img src="{{ .RelPermalink }}" class="block absolute top-0 object-cover h-full carouselxd" alt="carousel image {{$num}}"/>
             </div>
         </div>
 

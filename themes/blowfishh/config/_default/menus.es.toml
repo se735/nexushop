@@ -42,6 +42,11 @@
   pageRef = "Perfumes"
   weight = 20
 
+[[main]]
+  name = "Maletines"
+  parent = "Categorias"
+  pageRef = "Maletines"
+  weight = 20
 
 #[[main]]
 #  name = "Categorias"
