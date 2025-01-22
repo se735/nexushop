@@ -40,11 +40,41 @@
     </item>
     
     <item>
+      <title>Cuidado Personal</title>
+      <link>//localhost:1313/tags/cuidado-personal/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/tags/cuidado-personal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hogar</title>
+      <link>//localhost:1313/tags/hogar/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/tags/hogar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Maletines</title>
       <link>//localhost:1313/tags/maletines/</link>
       <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
       
       <guid>//localhost:1313/tags/maletines/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mascotas</title>
+      <link>//localhost:1313/tags/mascotas/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/tags/mascotas/</guid>
       <description></description>
       
     </item>

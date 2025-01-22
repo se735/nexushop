@@ -60,6 +60,16 @@
     </item>
     
     <item>
+      <title>Corrector de postura</title>
+      <link>//localhost:1313/productos/corrector-de-postura/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/corrector-de-postura/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/corrector-de-postura/featured.png" />
+    </item>
+    
+    <item>
       <title>Diadema Airpods Max</title>
       <link>//localhost:1313/productos/diadema-airpods-max-/</link>
       <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
@@ -67,6 +77,46 @@
       <guid>//localhost:1313/productos/diadema-airpods-max-/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/diadema-airpods-max-/featured.png" />
+    </item>
+    
+    <item>
+      <title>Dispensador organizador de granos</title>
+      <link>//localhost:1313/productos/dispensador-de-granos/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/dispensador-de-granos/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/dispensador-de-granos/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Dispensador organizador de granos giratorio</title>
+      <link>//localhost:1313/productos/dispensador-de-granos-giratorio/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/dispensador-de-granos-giratorio/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/dispensador-de-granos-giratorio/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Jeringa Alimentadora</title>
+      <link>//localhost:1313/productos/jeringa-alimentadora/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/jeringa-alimentadora/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/jeringa-alimentadora/featured.png" />
+    </item>
+    
+    <item>
+      <title>Juguete rasca encias</title>
+      <link>//localhost:1313/productos/juguete-rasca-encias/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/juguete-rasca-encias/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/juguete-rasca-encias/featured.jpg" />
     </item>
     
     <item>
@@ -97,6 +147,26 @@
       <guid>//localhost:1313/productos/maleta-viajera/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-viajera/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Maleta Vintage</title>
+      <link>//localhost:1313/productos/maleta-vintage/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-vintage/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-vintage/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Toalla microfibra secado rapido</title>
+      <link>//localhost:1313/productos/toalla-cabello/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/toalla-cabello/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/toalla-cabello/featured.jpg" />
     </item>
     
     <item>

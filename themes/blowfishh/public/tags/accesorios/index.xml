@@ -30,16 +30,6 @@
     </item>
     
     <item>
-      <title>Maleta Antirrobo</title>
-      <link>//localhost:1313/productos/maleta-antirrobo/</link>
-      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
-      
-      <guid>//localhost:1313/productos/maleta-antirrobo/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-antirrobo/featured.png" />
-    </item>
-    
-    <item>
       <title>Correa con taches</title>
       <link>//localhost:1313/productos/correa-con-taches/</link>
       <pubDate>Sat, 04 Jan 2025 15:47:12 -0500</pubDate>

@@ -48,6 +48,18 @@
   pageRef = "Maletines"
   weight = 20
 
+[[main]]
+  name = "Hogar"
+  parent = "Categorias"
+  pageRef = "hogar"
+  weight = 20
+
+[[main]]
+  name = "Cuidado personal"
+  parent = "Categorias"
+  pageRef = "cuidado personal"
+  weight = 20
+
 #[[main]]
 #  name = "Categorias"
 #  weight = 20

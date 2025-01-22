@@ -39,5 +39,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-viajera/featured.webp" />
     </item>
     
+    <item>
+      <title>Maleta Vintage</title>
+      <link>//localhost:1313/productos/maleta-vintage/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/maleta-vintage/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/maleta-vintage/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>

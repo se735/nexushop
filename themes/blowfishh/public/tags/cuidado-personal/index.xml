@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuidado Personal on NexuShop</title>
+    <link>//localhost:1313/tags/cuidado-personal/</link>
+    <description>Recent content in Cuidado Personal on NexuShop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2025 NexuShop</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 15:47:12 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/cuidado-personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Corrector de postura</title>
+      <link>//localhost:1313/productos/corrector-de-postura/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/corrector-de-postura/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/corrector-de-postura/featured.png" />
+    </item>
+    
+    <item>
+      <title>Toalla microfibra secado rapido</title>
+      <link>//localhost:1313/productos/toalla-cabello/</link>
+      <pubDate>Mon, 13 Jan 2025 15:47:12 -0500</pubDate>
+      
+      <guid>//localhost:1313/productos/toalla-cabello/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/productos/toalla-cabello/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
