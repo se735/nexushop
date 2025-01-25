@@ -3,7 +3,7 @@ title: "Jeringa Alimentadora"
 date: 2025-01-13T15:47:12-05:00
 draft: false
 params:
-    price: $50.000
+    price: $29.900
 tags: ['mascotas', 'hogar']
 description: "Jeringa Alimentadora"
 ---

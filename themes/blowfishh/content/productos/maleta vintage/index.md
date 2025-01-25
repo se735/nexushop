@@ -3,7 +3,7 @@ title: "Maleta Vintage"
 date: 2025-01-13T15:47:12-05:00
 draft: false
 params:
-    price: $50.000
+    price: $119.900
     color: true
 tags: ['maletines']
 description: "Maleta Vintage"
